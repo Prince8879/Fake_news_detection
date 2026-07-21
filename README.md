@@ -91,7 +91,7 @@ The project uses a **text classification model** trained with:
 ## 👨‍💻 Author
 
 Prince8879
-
+https://github.com/Prince8879/Fake_news_detection
 ---
 
 ## ⭐ If you like this project
