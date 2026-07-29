@@ -85,6 +85,8 @@ The project uses a **text classification model** trained with:
 * Build a web application using **Flask** or **Streamlit**
 * Improve accuracy with deep learning models
 * Deploy the model online
+* Add API key to generate realtime data.
+* Also we can add Wikipedia library for more data .
 
 ---
 
